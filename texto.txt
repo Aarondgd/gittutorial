@@ -1,2 +1,6 @@
 soy un texto
+<<<<<<< HEAD
 y soy muy feliz
+=======
+soy un pingo
+>>>>>>> f59f9ce0742dcd52c70294784db01dadf4de8e32
