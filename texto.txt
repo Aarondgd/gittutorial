@@ -1,8 +1,1 @@
-soy un texto y soy muy feliz
-soy un pingo
 
-<<<<<<< HEAD
-jhgjvg
-=======
-jhgvjknllkjkhjvghjbk
->>>>>>> origin/master
